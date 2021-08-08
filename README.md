@@ -1,6 +1,6 @@
 # Hello friends!
 
-- 🔭 I’m Pratyaksh Mehrotra (a.k.a pratyakshm)
+- 🔭 I’m Pratyaksh Mehrotra (a.k.a pratyakshm).
 - 🌿 I'm currently learning C#.
 &nbsp;  
 
