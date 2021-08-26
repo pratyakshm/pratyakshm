@@ -1,6 +1,6 @@
 # Hello friends!
 
-- 🔭 I’m Pratyaksh Mehrotra (a.k.a pratyakshm)
+- 🔭 I’m Pratyaksh Mehrotra (a.k.a. pratyakshm)
 - 🏫 Student at University of Engineering & Management, Kolkata
 - 🌿 C# newbie
 - ❤️ Learning something new everyday
