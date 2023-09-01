@@ -11,18 +11,19 @@
 <!--Figma--> <a href="https://www.figma.com/"><img alt="Figma" target="_blank" src="https://img.shields.io/badge/Figma-%0e0e0e.svg?style=for-the-badge&logo=Figma&color=0e0e0e&logoColor=white">  <!-- HTML --> <a href="https://www.w3schools.com/html/"><img alt="HTML" target="_blank" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a> <!-- CSS --> <a href="https://www.w3schools.com/css/"><img alt="CSS" target="_blank"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img alt="JavaScript" target="_blank" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> <!-- React --> <a href="https://reactjs.org/docs/getting-started.html"><img alt="ReactJS" target="_blank" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> <!-- PowerShell --> <a href="https://learn.microsoft.com/en-us/powershell/"><img alt="PowerShell" target="_blank" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"></a> <!-- Azure --> <a href="https://azure.microsoft.com/en-in/"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> <!-- C lang --> <a href="https://docs.microsoft.com/en-us/cpp/c-language"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a> <!-- C# lang --><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 
 <!-- Links -->
-<h2> <a href="https://pratyakshm.com"><strong>Portfolio Website</strong></a> | <a href="https://blog.pratyakshm.com"><strong>Blogs</strong></a><br> </h2>
+<h2> <a href="https://pratyakshm.com"><strong>More About Me</strong></a> </h2>
 
 <h3 align="left">What I’ve Been Writing Lately</h3>
+&bull; Web Environment Integrity Sucks (<a href="https://blog.pratyakshm.com/web-environment-integrity">August 25th, 2023</a>) <br>
 &bull; Twitter under Elon Musk (<a href="https://blog.pratyakshm.com/thoughts-on-twitter-under-elon-musk">January 14th, 2023</a>) <br>
-&bull; Thoughts on Dynamic Island (<a href="https://blog.pratyakshm.com/thoughts-on-dynamic-island">September 24th, 2022</a>) <br>
-
+&bull; <a href="https://blog.pratyakshm.com">and more</a>!<br>
+    
 <!-- About -->
 <h3 align="left">About</h3>
 <p align="left">
-👨🏻‍🎓 Computer Science student <br>
-🏢 E-QA <br>
-🤌🏻 Web <br>
+👨🏻‍🎓 Computer Science Junior <br>
+🏢 Product Testing <br>
+🤌🏻 Design <br>
 ❤️ Windows Platform <br>
 </p>
 
