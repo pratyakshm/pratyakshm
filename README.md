@@ -1,11 +1,16 @@
-current: product at OnePlus (2022'). <br>
+<strong>🏢 currently</strong> – <br>
+- design & engineering at 株式会社キャリアサバイバル (2024'). (full-time)
+- pre-release projects @ OnePlus & OPPO (2022'). (freelance)
 
-🚀 diving into product design
+<strong>🟢 available for </strong> – <br>
+- product design
 
-i occasionally write [here](https://blog.pratyakshm.com). <br>
+<br>
+<strong>———— links ————</strong> <br>
 
-[my resume](https://pratyakshm.com/resume).
+<strong>more of me</strong> –  <br>
+[resume](https://pratyakshm.com/resume) • [my journey](https://pratyakshm.com) • [blogs](https://blog.pratyakshm.com)
 
-[more about me](https://pratyakshm.com).
+<strong>reach out</strong> – <br>
+[schedule a call](https://cal.com/pratyakshm) • text me on [𝕏 (formerly Twitter)](https://twitter.com/messages/compose?recipient_id=798194075304361988) or [Telegram](https://t.me/pratyakshm)
 
-text me – [telegram](https://t.me/pratyakshm) or [𝕏 (twitter)](https://twitter.com/messages/compose?recipient_id=798194075304361988)
