@@ -1,6 +1,6 @@
 <strong>🏢 currently</strong> – <br>
-- design & engineering at 株式会社キャリアサバイバル (2024'). (full-time)
-- pre-release projects @ OnePlus & OPPO (2022'). (freelance)
+- ui/ux design [@CatOffGaming](https://github.com/catoffgaming) (2024').
+- pre-release projects @ OnePlus & OPPO (2022'). 
 
 <strong>🟢 available for </strong> – <br>
 - product design
