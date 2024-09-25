@@ -1,5 +1,5 @@
 <strong>🏢 currently</strong> – <br>
-- ui/ux design [@CatOffGaming](https://github.com/catoffgaming) (2024').
+- product design [@CatOffGaming](https://catoff.xyz) (2024').
 - pre-release projects @ OnePlus & OPPO (2022'). 
 
 <strong>🟢 available for </strong> – <br>
