@@ -1,6 +1,6 @@
 <strong>🏢 currently</strong> – <br>
-- product design [@CatOffGaming](https://catoff.xyz) (2024').
-- pre-release projects @ OnePlus & OPPO (2022'). 
+- product design [@Mintair](https://mintair.xyz); ex-[@CatOffGaming](https://catoff.xyz).
+- pre-release projects @ OnePlus & OPPO (2022').
 
 <strong>🟢 available for </strong> – <br>
 - product design
