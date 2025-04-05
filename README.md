@@ -1,6 +1,6 @@
 <strong>🏢 currently</strong> – <br>
-- product design [@Mintair](https://mintair.xyz); ex-[@CatOffGaming](https://catoff.xyz).
-- pre-release projects @ OnePlus & OPPO (2022').
+- design & growth [@otherwise.company](https://otherwise.company); ex- [@Mintair](https://mintair.xyz), [@CatOffGaming](https://catoff.xyz)
+- product @oneplus @oppo 
 
 <strong>🟢 available for </strong> – <br>
 - product design
@@ -9,7 +9,7 @@
 <strong>———— links ————</strong> <br>
 
 <strong>more of me</strong> –  <br>
-[resume](https://pratyakshm.com/resume) • [my journey](https://pratyakshm.com) • [blogs](https://blog.pratyakshm.com)
+[portfolio](https://pratyakshm.com) • [blogs](https://blog.pratyakshm.com)
 
 <strong>reach out</strong> – <br>
 [schedule a call](https://cal.com/pratyakshm) • text me on [𝕏 (formerly Twitter)](https://twitter.com/messages/compose?recipient_id=798194075304361988) or [Telegram](https://t.me/pratyakshm)
